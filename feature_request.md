@@ -4,19 +4,16 @@ about: Suggest an idea for this project
 title: "[Feature]: "
 labels: enhancement
 assignees: ''
-
 ---
 
-## 📌 Description
+## 📝 Description
 
-Please describe the feature you're requesting.
+A clear and concise description of what the feature is and why it's needed.
 
 ## ✅ Tasks
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
-## 📎 Additional Context
-
-Add any other information or screenshots related to the feature here.
+- [ ] Describe the feature in detail
+- [ ] Explain the motivation behind it
+- [ ] Add screenshots/mockups if any
+- [ ] Provide possible alternatives or solutions
+- [ ] Mention any dependencies or related issues
